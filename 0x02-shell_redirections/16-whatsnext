@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep "root" -m 3  /etc/passw
+egrep "root" -M 3  /etc/passwd
