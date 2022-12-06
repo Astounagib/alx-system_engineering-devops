@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -i error /etc/ssh/sshd_config
+egrep -i e /etc/ssh/sshd_config
