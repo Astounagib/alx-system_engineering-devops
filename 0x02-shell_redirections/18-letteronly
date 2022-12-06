@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -c [a-Ca]  /etc/ssh/sshd_config
+egrep -i -c /etc/ssh/sshd_config
